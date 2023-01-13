@@ -14,10 +14,20 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 
-
-
-
-
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
-
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: <your username>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
