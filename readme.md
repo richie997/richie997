@@ -1,6 +1,6 @@
 # Hi, I'm Obedson Malonda 👋🏾 👩🏾‍💻
 
-<img src="metime.png" alt="">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlinelabels.com%2Farticles%2Fbest-label-design-printing-software-platforms&psig=AOvVaw3TidHYgW04Y3grz0lQp2cx&ust=1679581427957000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCvj8fe7_0CFQAAAAAdAAAAABAE" alt="">
 <video src="Knight - 31210.mp4"></video/>
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL, PHP, Python and all the tech existing in the wolrd.
 
