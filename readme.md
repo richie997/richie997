@@ -8,13 +8,7 @@ Almost a genuis.
 - 👨‍💻 All of my projects are available at (https://github.com/richie997)
 
 
-## Connect With Me👋🏼
 
-<p align="left">  
-<a href="https://bit.ly/3XpJmeV" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="http://bit.ly/3CKFwVf" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="http://bit.ly/3ixS3EJ" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<video src='Knight - 31210.mp4' width=180/>
 
 
 
